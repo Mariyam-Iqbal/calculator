@@ -1,15 +1,16 @@
 {
-  "name": "simple-calculator",
+  "name": "m250a-simple-calculator",
   "type": "module",
-  "version": "1.0.0",
+  "version": "2.0.2",
   "description": "",
   "main": "index.js",
+  "bin": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
-  "author": "",
-  "license": "ISC",
+  "author": "mariyam",
+  "license": "mit",
   "devDependencies": {
     "@types/inquirer": "^9.0.7",
     "@types/node": "^20.11.28"
