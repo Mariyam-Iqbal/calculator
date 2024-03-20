@@ -9,8 +9,8 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
-  "author": "mariyam",
-  "license": "mit",
+  "author": "",
+  "license": "ISC",
   "devDependencies": {
     "@types/inquirer": "^9.0.7",
     "@types/node": "^20.11.28"
